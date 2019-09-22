@@ -19,6 +19,9 @@ module.exports = {
   ** Customize the progress-bar color
   */
   loading: { color: '#fff' },
+  router: {
+    base: '/aquiladb-website/'
+  },
   /*
   ** Global CSS
   */
